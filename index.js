@@ -3834,30 +3834,6 @@ p.nominalBounds = new cjs.Rectangle(-100,-113.6,199.8,227.6);
 		
 		
 		
-		console.log(nuSh);
-		console.log(nuPower);
-		console.log(nuMax);
-		console.log(nps);
-		console.log(autoclick);
-		console.log(prestiges);
-		console.log(nuMaxLevel);
-		console.log(nuLevel);
-		console.log(nuFrozen);
-		console.log(incomeBonus);
-		
-		
-		nuSh = 35303547054;
-		nuPower = 0.9999999999923147;
-		nuMax = 35303547054;
-		nps = [1806, 2626];
-		autoclick = [1.45, 1.52];
-		prestiges = 8;
-		nuMaxLevel = 34;
-		nuMaxLevel = 33;
-		nuFrozen = 0;
-		incomeBonus = [34.1, 37.5];
-		
-		
 		window.setInterval(saving, 5000);
 		window.setInterval(checkFps, 1000);
 		
@@ -7546,9 +7522,9 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/index_atlas_.png?1592593430445", id:"index_atlas_"},
-		{src:"images/index_atlas_2.png?1592593430445", id:"index_atlas_2"},
-		{src:"images/index_atlas_3.png?1592593430450", id:"index_atlas_3"}
+		{src:"images/index_atlas_.png?1592593717490", id:"index_atlas_"},
+		{src:"images/index_atlas_2.png?1592593717490", id:"index_atlas_2"},
+		{src:"images/index_atlas_3.png?1592593717494", id:"index_atlas_3"}
 	],
 	preloads: []
 };
